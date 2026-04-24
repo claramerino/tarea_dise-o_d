@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj": {}
+    "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj": {
+    "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj",
+        "projectUniqueName": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj",
         "projectName": "Octopath-Traveler-View",
-        "projectPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj",
+        "projectPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-View\\Octopath-Traveler-View.csproj",
         "packagesPath": "C:\\Users\\Francisca Prieto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-View\\obj\\",
+        "outputPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-View\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Francisca Prieto\\AppData\\Roaming\\NuGet\\NuGet.Config"

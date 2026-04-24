@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-Model\\Octopath-Traveler-Model.csproj",
+      "projectUniqueName": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-Model\\Octopath-Traveler-Model.csproj",
       "projectName": "Octopath-Traveler-Model",
-      "projectPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-Model\\Octopath-Traveler-Model.csproj",
+      "projectPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-Model\\Octopath-Traveler-Model.csproj",
       "packagesPath": "C:\\Users\\Francisca Prieto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\test188\\Octopath-Traveler\\Octopath-Traveler-Model\\obj\\",
+      "outputPath": "C:\\Users\\Francisca Prieto\\OneDrive\\Documentos\\Clara\\diseno_detallado\\tarea_dise-o_d\\Octopath-Traveler\\Octopath-Traveler-Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Francisca Prieto\\AppData\\Roaming\\NuGet\\NuGet.Config"

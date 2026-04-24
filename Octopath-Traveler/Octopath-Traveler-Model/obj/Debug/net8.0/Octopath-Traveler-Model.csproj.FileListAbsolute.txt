@@ -53,3 +53,15 @@ C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\test188\Oct
 C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\test188\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\refint\Octopath-Traveler-Model.dll
 C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\test188\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.pdb
 C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\test188\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\ref\Octopath-Traveler-Model.dll
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\bin\Debug\net8.0\Octopath-Traveler-Model.deps.json
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\bin\Debug\net8.0\Octopath-Traveler-Model.dll
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\bin\Debug\net8.0\Octopath-Traveler-Model.pdb
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.AssemblyInfoInputs.cache
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.AssemblyInfo.cs
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.csproj.CoreCompileInputs.cache
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.sourcelink.json
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.dll
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\refint\Octopath-Traveler-Model.dll
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\Octopath-Traveler-Model.pdb
+C:\Users\Francisca Prieto\OneDrive\Documentos\Clara\diseno_detallado\tarea_dise-o_d\Octopath-Traveler\Octopath-Traveler-Model\obj\Debug\net8.0\ref\Octopath-Traveler-Model.dll
